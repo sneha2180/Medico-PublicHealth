@@ -1,4 +1,4 @@
-# ***Medico-PublicHealth***
+# ***Medico-Public Health***
 
 <p align="center">
 <img width="400px" src="assets/Logo.png"   

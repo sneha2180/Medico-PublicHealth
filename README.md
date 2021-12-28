@@ -1,7 +1,7 @@
 # ***Medico-PublicHealth***
 
 <p align="center">
-<img width="600px" src="assets/Medico.png"   
+<img width="400px" src="assets/Logo.png"   
 <br/><br/>
 🌟 Star this repository if you find it useful.
 </p>
